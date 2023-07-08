@@ -1,11 +1,10 @@
 # Capítulo 1
 
 1. Devoradores de Estrelas
+
 Livro Devoradores de Estrelas
 Autor: Andy Weir
 Ano de publicação: 2021
-
-📌 Comprar na Amazon
 
 Com certeza Devoradores de Estrelas vai como o melhor livro de ficção científica. E o que te aconselho é ler esse livro do mesmo jeito que eu: sem saber muito sobre ele.
 
