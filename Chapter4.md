@@ -1,6 +1,6 @@
 # Capítulo 4 
 
-Duna
+4 - Duna
 Livro Duna
 Autor: Frank Herbert
 Ano de publicação: 1965
