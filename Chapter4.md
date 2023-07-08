@@ -1,7 +1,7 @@
 # Capítulo 4 
 
-Duna
-Livro Duna
+4 - Livro Duna
+
 Autor: Frank Herbert
 Ano de publicação: 1965
 Saga: Crônicas de Duna
